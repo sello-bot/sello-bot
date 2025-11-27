@@ -1,62 +1,116 @@
 ## Hi , i'm Sello👋
 
-# 👨‍💻 Data Scientist & IT Enthusiast
+# 👨‍💻Data Scientist | Full-Stack Web Developer | AI Innovator
 
-🎓 **Second-year IT Computer Science student** at Richfield College, specializing in **Data Science**. I'm passionate about transforming raw data into actionable insights and building innovative solutions that drive informed decision-making.
+I'm a passionate Data Scientist and Full-Stack Developer with a strong foundation in IT (BSc in progress at Richfield College). I enjoy building AI-powered tools, data-driven applications, and modern web solutions that solve real-world problems.
 
-## 🛠️ Technical Skills
+My work combines machine learning, web engineering, and automation, turning raw data into insights and intelligent systems.
 
-### 📊 Data Science & Analytics
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-- **Data Tools:** SQL, Excel, Pandas, NumPy, Matplotlib, Seaborn
-- **ML & Stats:** Machine Learning algorithms, Statistical modeling, Data visualization
-- **Analysis:** Exploratory Data Analysis (EDA), Predictive modeling, A/B testing
+🧠 Technical Skills
+📊 Data Science & Analytics
 
-### 🌐 Web Development
-- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+Languages: Python, R
 
-### 🔧 Development Tools
-- **Editors:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-- **Office Suite:** Microsoft Word, PowerPoint, Excel
+Core Tools: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-## 🚀 Areas of Interest
+Data Workflows: EDA, Feature engineering, Predictive modeling
 
-- 🧠 **Artificial Intelligence & Machine Learning**
-- 📈 **Data Science & Business Analytics**
-- ☁️ **Cloud Computing & Infrastructure**
-- 🔐 **Cybersecurity & Data Protection**
-- 📱 **Full-Stack Web Development**
-- 🎯 **IT Project Management & Consulting**
+Machine Learning: Classification, Regression, Time-series, Model evaluation
 
-## 📊 What I Do
+Other: SQL, Excel, Statistical modeling, A/B testing
 
-I specialize in extracting meaningful insights from complex datasets using advanced analytical techniques and modern programming tools. My focus spans from building predictive models to creating interactive dashboards that help businesses make data-driven decisions.
+🌐 Full-Stack Web Development
 
-## 🤝 Let's Connect!
+Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap
 
-I'm always eager to collaborate on exciting projects, learn from industry professionals, and contribute to innovative solutions. Whether you're looking for:
+Backend: Node.js, Express
 
-- 💡 **Data analysis and visualization projects**
-- 🔍 **Research collaborations**
-- 🌱 **Mentorship opportunities**
-- 🚀 **Open-source contributions**
+Databases: MySQL, MongoDB
 
-Feel free to reach out! I'm excited to bring my analytical mindset and technical skills to real-world challenges.
+APIs: REST API development & integration
 
----
-*"Turning data into decisions, one insight at a time"* ✨
+🔧 Development & Tools
 
+IDEs: VS Code, Jupyter Notebook
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sello-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sello-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sello-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Version Control: Git, GitHub
 
----
-[![](https://visitcount.itsvg.in/api?id=sello-bot&icon=0&color=0)](https://visitcount.itsvg.in)
+Other: Power BI, Postman, NPM/Yarn
+
+🚀 Highlighted Projects
+✈️ Predictive Maintenance for Jet Engines
+
+Machine learning model using NASA’s C-MAPSS dataset to predict Remaining Useful Life (RUL), helping reduce maintenance costs and improve aviation safety.
+
+🤖 AI-Powered Data Science Assistant
+
+An intelligent chatbot capable of automating:
+
+Data cleaning
+
+Exploratory analysis
+
+Model recommendations
+
+Visualizations
+
+🎧 Spotify Data Analysis
+
+Exploratory data analysis on multi-year streaming history to uncover user behavior trends and engagement patterns.
+
+🩺 Breast Cancer Diagnosis (ML Classification)
+
+Built ML models to predict cancer diagnosis using diagnostic features with high accuracy.
+
+🎯 Areas of Interest
+
+Artificial Intelligence & Machine Learning
+
+Data Science & Business Intelligence
+
+Full-Stack Web Development
+
+Cloud Computing
+
+Cybersecurity & Data Protection
+
+IT Project Management
+
+📌 What I Do
+
+I turn data into meaningful insights and build intelligent software systems.
+My focus includes:
+
+📈 Predictive modeling & analytics
+
+📊 Data visualization & dashboards
+
+🤖 AI/ML model development
+
+🌐 Full-stack web applications
+
+⚙️ Automation & workflow optimization
+
+🤝 Let’s Connect
+
+I'm open to:
+
+Internships
+
+Freelance opportunities
+
+Research collaborations
+
+Mentorship
+
+Open-source contributions
+
+🔗 Portfolio: http://portfolio-website-livid-two.vercel.app
+
+🔗 GitHub: https://github.com/sello-bot
+
+💼 LinkedIn: www.linkedin.com/in/sello-kgole-ba450a295
+
+Let’s build something impactful together! 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
