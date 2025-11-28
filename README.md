@@ -1,7 +1,70 @@
 ## Hi , i'm Sello👋
 
-# 👨‍💻Data Scientist | Full-Stack Web Developer | AI Innovator  # 
-<br>I'm a passionate Data Scientist and Full-Stack Developer with a strong foundation in IT (BSc in progress at Richfield College). I enjoy building AI-powered tools, data-driven applications, and modern web solutions that solve real-world problems.<br><br>My work combines machine learning, web engineering, and automation, turning raw data into insights and intelligent systems.<br><br>🧠 Technical Skills:<br><br>📊 Data Science & Analytics<br><br>-Languages: Python, R<br><br>-Core Tools: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn<br><br>-Data Workflows: EDA, Feature engineering, Predictive modeling<br><br>-Machine Learning: Classification, Regression, Time-series, Model evaluation<br><br>-Other: SQL, Excel, Statistical modeling, A/B testing<br><br>🌐 Full-Stack Web Development<br><br>-Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap<br><br>-Backend: Node.js, Express<br><br>-Databases: MySQL, MongoDB<br><br>-APIs: REST API development & integration<br><br>🔧 Development & Tools<br><br>-IDEs: VS Code, Jupyter Notebook<br><br>-Version Control: Git, GitHub<br><br>-Other: Power BI, Postman, NPM/Yarn<br><br><br><br>🎯 Areas of Interest:<br><br>-Artificial Intelligence & Machine Learning<br><br>-Data Science & Business Intelligence<br><br>-Full-Stack Web Development<br><br>-Cloud Computing<br><br>-Cybersecurity & Data Protection<br><br>-IT Project Management<br><br>📌 What I Do<br><br>I turn data into meaningful insights and build intelligent software systems.<br><br>My focus includes:<br><br>📈 Predictive modeling & analytics<br><br>📊 Data visualization & dashboards<br><br>🤖 AI/ML model development<br><br>🌐 Full-stack web applications<br><br>⚙️ Automation & workflow optimization<br><br>🤝 Let’s Connect<br>I'm open to:<br><br>-Internships<br><br>-Freelance opportunities<br><br>-Research collaborations<br><br>-Mentorship<br><br>-Open-source contributions<br><br><br><br>Let’s build something impactful together! 🚀<br><br><br>
+# **👨‍💻 Data Scientist | Full-Stack Web Developer | AI Innovator**
+
+I'm a passionate Data Scientist and Full-Stack Developer with a strong foundation in IT (BSc in progress at Richfield College).  
+I enjoy building AI-powered tools, data-driven applications, and modern web solutions that solve real-world problems.
+
+My work combines machine learning, web engineering, and automation, turning raw data into insights and intelligent systems.
+
+---
+
+## **🧠 Technical Skills**
+
+### **📊 Data Science & Analytics**
+- **Languages:** Python, R  
+- **Core Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
+- **Workflows:** EDA, Feature Engineering, Predictive Modeling  
+- **Machine Learning:** Classification, Regression, Time-Series, Model Evaluation  
+- **Other:** SQL, Excel, Statistical Modeling, A/B Testing  
+
+### **🌐 Full-Stack Web Development**
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express  
+- **Databases:** MySQL, MongoDB  
+- **APIs:** REST API Development & Integration  
+
+### **🔧 Development & Tools**
+- **IDEs:** VS Code, Jupyter Notebook  
+- **Version Control:** Git, GitHub  
+- **Other Tools:** Power BI, Postman, NPM/Yarn  
+
+---
+
+## **🎯 Areas of Interest**
+- Artificial Intelligence & Machine Learning  
+- Data Science & Business Intelligence  
+- Full-Stack Web Development  
+- Cloud Computing  
+- Cybersecurity & Data Protection  
+- IT Project Management  
+
+---
+
+## **📌 What I Do**
+
+I turn data into meaningful insights and build intelligent software systems.
+
+My focus includes:  
+- 📈 Predictive Modeling & Analytics  
+- 📊 Data Visualization & Dashboards  
+- 🤖 AI/ML Model Development  
+- 🌐 Full-Stack Web Applications  
+- ⚙️ Automation & Workflow Optimization  
+
+---
+
+## **🤝 Let’s Connect**
+
+I'm open to:  
+- Internships  
+- Freelance Opportunities  
+- Research Collaborations  
+- Mentorship  
+- Open-Source Contributions  
+
+Let’s build something impactful together! 🚀
+
 
 
 ## 🌐 Socials: 
