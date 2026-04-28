@@ -2,8 +2,10 @@
 
 # **👨‍💻 Data Scientist | Full-Stack Web Developer | AI Innovator**
 
-I'm a passionate Data Scientist and Full-Stack Developer with a strong foundation in IT (BSc in progress at Richfield College).  
-I enjoy building AI-powered tools, data-driven applications, and modern web solutions that solve real-world problems.
+I'm a passionate Data Scientist and Full-Stack Developer with a strong foundation in IT.  I build intelligent systems that combine machine learning, automation, and scalable web technologies to solve real-world problems.
+
+My work spans AI-powered applications, data pipelines, and full-stack platforms — from predictive models to production-ready systems.
+
 
 My work combines machine learning, web engineering, and automation, turning raw data into insights and intelligent systems.
 
